@@ -1,0 +1,1 @@
+print("하이 김새롬 hello world")
